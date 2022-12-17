@@ -1,4 +1,6 @@
 ### Welcome, I'm Minji 🤝
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=300&section=header&text=Minji%20Kim&fontSize=90)
+
 <!--
 **MJ7773/MJ7773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
