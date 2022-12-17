@@ -1,5 +1,4 @@
-### Welcome to Minji's special space🤝
-
+### Welcome, I'm Minji 🤝
 <!--
 **MJ7773/MJ7773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
